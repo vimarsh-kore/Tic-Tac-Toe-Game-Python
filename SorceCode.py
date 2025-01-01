@@ -1,8 +1,5 @@
 import os
 
-# Constants
-FILE_NAME = "game_state.txt"
-
 # Function to display the game board
 def display_board(board):
     print("\nCurrent Board:")
